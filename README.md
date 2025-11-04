@@ -13,7 +13,7 @@ The assistant answers fashion questions with grounded, factual responses by retr
 Instead of guessing, the model references PDFs like *“Ultimate Guide to Men’s Watches”* or *“How to Dress Sharp Without Burning Up”* before generating advice.  
 
 **Key features:**  
-- Full **RAG pipeline** — document parsing, chunking, classification, retrieval, and LLM generation.  
+- Full **RAG pipeline** - document parsing, chunking, classification, retrieval, and LLM generation.  
 - **Hybrid search** with Snowflake Cortex (semantic + keyword).  
 - **Context toggle** in Streamlit to compare grounded vs non-grounded LLM answers.  
 - Planned automation with **Streams + Tasks + Stored Procedures** for self-updating document ingestion.  
