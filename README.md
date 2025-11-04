@@ -1,6 +1,6 @@
 # 👔 Men’s Styling RAG Chatbot  
 
-> 🔗 **[Watch the demo video](YOUR_VIDEO_LINK_HERE)**  
+> 🔗 **[Watch the demo video](https://drive.google.com/file/d/1kdVZRkHnl1TOyfonq8Dp8UaewgxcoeBe/view?usp=sharing)**  
 
 This project builds a **Retrieval-Augmented Generation (RAG)** chatbot that answers questions about **men’s styling** using a collection of PDF guides (watches, grooming, fragrances, shoes, and more).  
 It combines **Snowflake Cortex Search** for hybrid vector retrieval with **LLMs (Mistral-Large2, Llama3)** to deliver grounded, context-aware responses through a **Streamlit** chat interface.  
@@ -35,6 +35,7 @@ Instead of guessing, the model references PDFs like *“Ultimate Guide to Men’
 ## 📁 Project Structure
 
 men-style-rag-chatbot/
+
 ├── setup.sql               # Create database, schema, and stage
 
 ├── parse_documents.sql     # Parse PDFs and extract text
