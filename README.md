@@ -32,15 +32,16 @@ Instead of guessing, the model references PDFs like *“Ultimate Guide to Men’
 
 ---
 
-## 🧩 Repository Structure  
+## 📁 Project Structure
 
-📁 men-style-rag-chatbot/
-├── setup.sql # Create database, schema, and stage \\
-├── parse_documents.sql # Parse PDFs and extract text \\
-├── chunking_classify.sql # Chunk text and classify categories \\ 
-├── search_service.sql # Create Cortex Search service \\ 
-├── streamlit_app.py # Chat UI with retrieval + generation logic \\
-└── README.md # Project documentation \\
+men-style-rag-chatbot/
+├── setup.sql               # Create database, schema, and stage
+├── parse_documents.sql     # Parse PDFs and extract text
+├── chunking_classify.sql   # Chunk text and classify categories
+├── search_service.sql      # Create Cortex Search service
+├── streamlit_app.py        # Chat UI with retrieval + generation logic
+└── README.md               # Project documentation
+
 
 
 ## 💬 Streamlit Chat App
