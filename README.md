@@ -73,4 +73,4 @@ Integrate multi-modal retrieval for style image references.
 
 ## 🧠 Inspiration
 
-_“RAG isn’t just for enterprise docs — it can power a personalized AI that knows your aesthetic, your wardrobe, your vibe.”_
+_“RAG isn’t just for enterprise docs; it can power a personalized AI that knows your aesthetic, your wardrobe, your vibe.”_
